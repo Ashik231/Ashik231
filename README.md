@@ -9,7 +9,7 @@
 
 ◆ 𝘔𝘺 𝘕𝘢𝘮𝘦 𝘪𝘴 [𝘈𝘴𝘩𝘪𝘬 𝘔𝘩𝘥](https://github.com/Ashik231)
 
-◆ 𝘔𝘺 𝘢𝘨𝘦⇨21
+◆ 𝘔𝘺 𝘢𝘨𝘦⇨𝘛𝘸𝘦𝘯𝘵𝘺 𝘖𝘯𝘦
 
 ◆ 𝘐 𝘏𝘢𝘷𝘦 𝘈 𝘔𝘰𝘷𝘪𝘦 𝘙𝘦𝘲𝘶𝘦𝘴𝘵𝘪𝘯𝘨 𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘎𝘳𝘰𝘶𝘱 ⇨ @newgen_cinemazzz
 
@@ -17,7 +17,7 @@
 
 ◆ ⌥𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘎𝘳𝘢𝘱𝘩𝘪𝘤𝘴 𝘋𝘦𝘴𝘪𝘨𝘯𝘪𝘯𝘨⌥
 
-|- Feel free to chat with me on [Telegram](https://t.me/Unavailable4allTime) 😜
+◆ 𝘍𝘪𝘯𝘥 𝘔𝘦 𝘖𝘯 [𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮](https://t.me/Unavailable4allTime) 😜
 
 
 
@@ -51,7 +51,6 @@
 ### ⟱𝘏𝘦𝘳𝘦 𝘐𝘴 𝘔𝘺 𝘚𝘰𝘤𝘪𝘢𝘭 𝘔𝘦𝘥𝘪𝘢 𝘈𝘤𝘤𝘰𝘶𝘯𝘵𝘴⟱
 
 <p align="center">
-<a href="https://www.github.com/Ashik231"><img title="YouTube" src="https://img.shields.io/badge/Jisin-0-purple?style=for-the-badge&logo=github"></a>
 <a href="https://www.instagram.com/unavailable4alltime"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram"></a>
 <a href="https://t.me/Unavailable4allTime"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
 </p>
