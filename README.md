@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%278038D5&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=Hi+I'M+Ashik)](https://git.io/typing-svg) &nbsp;&nbsp;
   <p align="center"> <img align="center" src="https://raw.githubusercontent.com/Ashik231/Ashik_Mhd/main/profile.gif" size='100px' height="400px"> </p>
-  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashik231&show_icons=true&theme=midnight-purple" alt="Ashik231" /> </p>
+  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashik231&show_icons=true&theme=midnight-red" alt="Ashik231" /> </p>
 
 
 <p align="center"> <a href="https://github.com/Ashik231"><img src="https://github-profile-trophy.vercel.app/?username=Ashik231&theme=juicyfresh&no-frame=true&column=6&" alt="Ashik231" /></a> </p>
