@@ -1,27 +1,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans&color=%33A1C9&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=Hi+I'M+Ashik)](https://git.io/typing-svg) &nbsp;&nbsp;
   <p align="center"> <img align="center" src="https://raw.githubusercontent.com/Ashik231/Ashik_Mhd/main/profile.gif" size='100px' height="400px"> </p>
-  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashik231&show_icons=true&theme=bighten-purple" alt="Ashik231" /> </p>
+  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashik231&show_icons=true&theme=midnight-purple" alt="Ashik231" /> </p>
 
 
 <p align="center"> <a href="https://github.com/Ashik231"><img src="https://github-profile-trophy.vercel.app/?username=Ashik231&theme=juicyfresh&no-frame=true&column=6&" alt="Ashik231" /></a> </p>
 
 ### ⟱𝘏𝘦𝘳𝘦 𝘪𝘴 𝘚𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦⟱
 
-|- </b>My Name is [Ashik_Mhd](https://github.com/Ashik231)<\b>)
+◆ 𝘔𝘺 𝘕𝘢𝘮𝘦 𝘪𝘴 [𝘈𝘴𝘩𝘪𝘬 𝘔𝘩𝘥](https://github.com/Ashik231)
 
-|- I'm Now 21 😋
+◆ 𝘔𝘺 𝘢𝘨𝘦⇨21
 
-|- Im interested in almost everything online 😉
+◆ 𝘐 𝘏𝘢𝘷𝘦 𝘈 𝘔𝘰𝘷𝘪𝘦 𝘙𝘦𝘲𝘶𝘦𝘴𝘵𝘪𝘯𝘨 𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘎𝘳𝘰𝘶𝘱 ⇨ @newgen_cinemazzz
 
-|- I Am A Movie Lover 🌝
+◆ 𝘐𝘢𝘮 𝘕𝘰𝘵 𝘈 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭 𝘊𝘰𝘥𝘦𝘳.
 
-|- I love playing games 🎮
+◆ ⌥𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘎𝘳𝘢𝘱𝘩𝘪𝘤𝘴 𝘋𝘦𝘴𝘪𝘨𝘯𝘪𝘯𝘨⌥
 
 |- Feel free to chat with me on [Telegram](https://t.me/Unavailable4allTime) 😜
 
 
 
-### LANGUAGES AND TOOLS >>>>
+### ⟱𝘔𝘺 𝘍𝘳𝘪𝘦𝘯𝘥𝘴⟱
   
 <p align="center">
 </a> 
@@ -30,15 +30,9 @@
 </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -49,19 +43,15 @@
 <a href="https://sqlalchemy.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
-<a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
+
 </p>
 
 <br>
 
-### FIND ME ON SOCIAL MEDIA >>>>
+### ⟱𝘏𝘦𝘳𝘦 𝘐𝘴 𝘔𝘺 𝘚𝘰𝘤𝘪𝘢𝘭 𝘔𝘦𝘥𝘪𝘢 𝘈𝘤𝘤𝘰𝘶𝘯𝘵𝘴⟱
 
 <p align="center">
-<a href="https://www.github.com/Jisin0"><img title="YouTube" src="https://img.shields.io/badge/Jisin-0-purple?style=for-the-badge&logo=github"></a>
-<a href="https://www.youtube.com/channel/UC4HTsk_D_42aoVRfkifTCkA"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Jisin-red?style=for-the-badge&logo=Youtube"></a>
-<a href="https://chat.whatsapp.com/FsGXNXYu5nyHaW8BljPkRa"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-green?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://www.instagram.com/jisin_0"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram"></a>
-<a href="https://t.me/Jisin_0"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
+<a href="https://www.github.com/Ashik231"><img title="YouTube" src="https://img.shields.io/badge/Jisin-0-purple?style=for-the-badge&logo=github"></a>
+<a href="https://www.instagram.com/unavailable4alltime"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram"></a>
+<a href="https://t.me/Unavailable4allTime"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
 </p>
