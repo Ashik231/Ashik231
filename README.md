@@ -7,7 +7,7 @@
 
 ### ⟱𝘏𝘦𝘳𝘦 𝘪𝘴 𝘚𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦⟱
 
-|- My Name is [Ashik_Mhd](https://github.com/Ashik231) 😁
+|- </b>My Name is [Ashik_Mhd](https://github.com/Ashik231)<\b>)
 
 |- I'm Now 21 😋
 
