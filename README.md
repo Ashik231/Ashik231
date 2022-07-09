@@ -1,25 +1,25 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238038D5&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=Hi+I'M+ASHIK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238038D5&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=Hi+I'M+Ashik)](https://git.io/typing-svg) &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">
+  <p align="center"> <img align="center" src="https://raw.githubusercontent.com/Ashik231/Ashik_Mhd/main/profile.gif" size='100px' height="400px"> </p>
+  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashik231&show_icons=true&theme=midnight-purple" alt="Ashik231" /> </p>
 
 
 <p align="center"> <a href="https://github.com/Ashik231"><img src="https://github-profile-trophy.vercel.app/?username=Ashik231&theme=juicyfresh&no-frame=true&column=6&" alt="Ashik231" /></a> </p>
 
-### KNOW SOMETHING ABOUT ME >>>>
+### HERE IS SOMETHING ABOUT ME >>>>
 
-|- My Name is [Jisin](https://github.com/Jisin0) 😁
+|- My Name is [Ashik_Mhd](https://github.com/Ashik231) 😁
 
-|- I'm just a Teen 😋
+|- I'm Now 21 😋
 
 |- Im interested in almost everything online 😉
 
-|- I like being alone 🌝
+|- I Am A Movie Lover 🌝
 
 |- I love playing games 🎮
 
-|- Feel free to chat with me on [Telegram](https://t.me/Jisin_idk) 😜
+|- Feel free to chat with me on [Telegram](https://t.me/Unavailable4allTime) 😜
 
-|- You can also chat with me on [Whatsapp](https://wa.me/917560979627) 🙃
-  
 
 
 ### LANGUAGES AND TOOLS >>>>
