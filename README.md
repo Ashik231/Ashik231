@@ -1,12 +1,12 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238038D5&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=Hi+I'M+Ashik)](https://git.io/typing-svg) &nbsp;&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%278038D5&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=Hi+I'M+Ashik)](https://git.io/typing-svg) &nbsp;&nbsp;
   <p align="center"> <img align="center" src="https://raw.githubusercontent.com/Ashik231/Ashik_Mhd/main/profile.gif" size='100px' height="400px"> </p>
-  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashik231&show_icons=true&theme=white" alt="Ashik231" /> </p>
+  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashik231&show_icons=true&theme=sky-blue" alt="Ashik231" /> </p>
 
 
 <p align="center"> <a href="https://github.com/Ashik231"><img src="https://github-profile-trophy.vercel.app/?username=Ashik231&theme=juicyfresh&no-frame=true&column=6&" alt="Ashik231" /></a> </p>
 
-### HERE IS SOMETHING ABOUT ME
+### ⟱𝘏𝘦𝘳𝘦 𝘪𝘴 𝘚𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦⟱
 
 |- My Name is [Ashik_Mhd](https://github.com/Ashik231) 😁
 
