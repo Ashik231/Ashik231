@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script=%33A1C9&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=Hi+I'M+Ashik)](https://git.io/typing-svg) &nbsp;&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbiton+colour=%33A1C9&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=Hi+I'M+Ashik)](https://git.io/typing-svg) &nbsp;&nbsp;
   <p align="center"> <img align="center" src="https://raw.githubusercontent.com/Ashik231/Ashik_Mhd/main/profile.gif" size='100px' height="400px"> </p>
   <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashik231&show_icons=true&theme=midnight-purple" alt="Ashik231" /> </p>
 
@@ -17,7 +17,7 @@
 
 ◆ ⌥𝘚𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘎𝘳𝘢𝘱𝘩𝘪𝘤𝘴 𝘋𝘦𝘴𝘪𝘨𝘯𝘪𝘯𝘨⌥
 
-◆ 𝘍𝘪𝘯𝘥 𝘔𝘦 𝘖𝘯 [𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮](https://t.me/Unavailable4allTime) 😜
+◆ 𝘍𝘪𝘯𝘥 𝘔𝘦 𝘖𝘯 [𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮](https://t.me/Unavailable4allTime)...
 
 
 
